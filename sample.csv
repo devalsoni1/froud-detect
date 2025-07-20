@@ -1,0 +1,16 @@
+timestamp,amount,merchant,user_id,category
+2025-07-01 10:05:00,450.0,Flipkart,101,shopping
+2025-07-01 10:15:00,75.0,Zomato,101,food
+2025-07-01 11:00:00,12000.0,Apple Store,102,electronics
+2025-07-01 12:30:00,399.0,Amazon,103,shopping
+2025-07-01 13:00:00,200.0,Dominos,104,food
+2025-07-01 13:15:00,870.0,Myntra,101,clothing
+2025-07-01 14:10:00,14500.0,Gucci,105,luxury
+2025-07-01 14:30:00,650.0,Big Bazaar,106,grocery
+2025-07-01 15:00:00,300.0,Swiggy,103,food
+2025-07-01 15:30:00,50000.0,GoldMart,107,jewelry
+2025-07-01 16:00:00,700.0,Flipkart,102,shopping
+2025-07-01 16:30:00,310.0,Amazon,108,shopping
+2025-07-01 17:00:00,250.0,Uber,109,travel
+2025-07-01 17:30:00,1800.0,Tanishq,110,jewelry
+2025-07-01 18:00:00,950.0,Puma,101,clothing
